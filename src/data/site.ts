@@ -59,7 +59,7 @@ export const site = {
     ],
   },
   assets: {
-    logo: "/assets/images/logo-nutricionista-alexandra-petry.webp",
+    logo: "/assets/images/logo-nutricionista-alana-soares.webp",
     hero: "/assets/images/nutricionista-alana-soares-hero.webp",
     heroMobile: "/assets/images/nutricionista-alana-soares-hero-mobile.webp",
     about: "/assets/images/sobre-nutricionista-alana-soares.webp",
