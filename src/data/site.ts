@@ -45,7 +45,7 @@ export const site = {
     tagline:
       "A nutri que parou de só dar dieta <br/> e passou a investigar o seu corpo de verdade",
     description:
-      "Chega de dietas mirabolantes e restrições sem resultado. Através do Método Íntegra, investigamos as causas reais de inchaço, desregulação intestinal, inflamações e desequilíbrios hormonais. Atendimento acolhedor presencial em Estância Velha, Novo Hamburgo, Ivoti e consultas online.",
+      "Chega de dietas mirabolantes e restrições sem resultado. Através do Método Íntegra, investigamos as causas reais de inchaço, desregulação intestinal, inflamações e desequilíbrios hormonais.",
   },
   about: {
     eyebrow: "Muito prazer, sou a Alana Soares!",
