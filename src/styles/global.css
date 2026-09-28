@@ -28,7 +28,7 @@
   --ink: #1c1a16;
   --muted: #5e5951;
   --cream: #e6ded3;
-  --paper: #f7f5f2;
+  --paper: #EBEBED;
   --sage: #6e8172;
   --sage-dark: #465549;
   --sage-tint: #dbe2dc;
@@ -136,8 +136,8 @@ a {
   position: sticky;
   top: 0;
   z-index: 30;
-  background: rgba(248, 243, 233, 0.94);
-  border-bottom: 1px solid rgba(23, 21, 16, .08);
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
   -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
   transform: translateZ(0);

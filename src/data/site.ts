@@ -88,7 +88,7 @@ export const specialties = [
   },
   {
     number: "03",
-    icon: "/assets/images/corrida.svg",
+    icon: "/assets/images/hormonal.svg",
     title: "Equilíbrio Hormonal e Emagrecimento",
     text: "Apoio nutricional para SOP, tireoide, TPM, menopausa e controle metabólico, alinhando nutrientes ao seu ritmo biológico para um emagrecimento sustentável.",
     detail:
