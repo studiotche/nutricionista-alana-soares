@@ -1,61 +1,61 @@
 export const site = {
-  name: "Alexandra Petry",
-  role: "Nutricionista Clínica e Esportiva",
-  fullRole: "Nutricionista Clínica e Esportiva",
-  city: "Novo Hamburgo",
+  name: "Alana Soares",
+  role: "Nutricionista Clínica e Funcional",
+  fullRole: "Nutricionista Clínica e Funcional",
+  city: "Estância Velha",
   state: "RS",
-  region: "Novo Hamburgo/RS",
+  region: "Estância Velha · Novo Hamburgo · Ivoti · Online",
   crn: "",
   credentials:
-    "Nutricionista especializada em Avaliação Metabólica e Nutricional",
-  phoneDisplay: "(51) 8408-8326",
-  phoneLink: "555184088326",
-  telLink: "tel:+555184088326",
+    "Nutricionista Clínica e Funcional · Criadora do Método Íntegra",
+  phoneDisplay: "(51) 99624-0936",
+  phoneLink: "5551996240936",
+  telLink: "tel:+5551996240936",
   email: "",
-  instagram: "https://www.instagram.com/nutricionistaalexandrapetry/",
+  instagram: "https://www.instagram.com/nutri.alanasoares/",
   hours: [
     {
       days: "Atendimento particular",
-      time: "Presencial e Online · Consultar horários no WhatsApp",
+      time: "Presencial (Estância Velha, NH e Ivoti) e Online · Consultar horários no WhatsApp",
     },
   ],
   googleProfile:
-    "https://www.google.com/maps/place/Alexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo/@-29.6912225,-51.1272169,979m/data=!3m1!1e3!4m15!1m8!3m7!1s0x95194313e3d54ef7:0xaf9a49855b655981!2sAlexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo!8m2!3d-29.6910819!4d-51.1272354!10e5!16s%2Fg%2F11qr9fkwj9!3m5!1s0x95194313e3d54ef7:0xaf9a49855b655981!8m2!3d-29.6910819!4d-51.1272354!16s%2Fg%2F11qr9fkwj9?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "https://www.google.com/maps/place/Nutricionista+Alana+Soares+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+e+Funcional/@-29.6506012,-51.1735396,980m/data=!3m1!1e3!4m15!1m8!3m7!1s0x951945807a8c8cb5:0x8b176c369cfecaa9!2sNutricionista+Alana+Soares+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+e+Funcional!8m2!3d-29.6505729!4d-51.173389!10e5!16s%2Fg%2F11s3ddcvgf!3m5!1s0x951945807a8c8cb5:0x8b176c369cfecaa9!8m2!3d-29.6505729!4d-51.173389!16s%2Fg%2F11s3ddcvgf?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D",
   googleRating: {
     score: "5,0",
-    reviews: 40,
+    reviews: 6,
   },
   mapsEmbedUrl:
-    "https://maps.google.com/maps?q=-29.6910819,-51.1272354&z=17&hl=pt-BR&output=embed",
+    "https://maps.google.com/maps?q=-29.6505729,-51.173389&z=17&hl=pt-BR&output=embed",
   mapsUrl:
-    "https://www.google.com/maps/place/Alexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo/@-29.6912225,-51.1272169,979m/data=!3m1!1e3!4m15!1m8!3m7!1s0x95194313e3d54ef7:0xaf9a49855b655981!2sAlexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo!8m2!3d-29.6910819!4d-51.1272354!10e5!16s%2Fg%2F11qr9fkwj9!3m5!1s0x95194313e3d54ef7:0xaf9a49855b655981!8m2!3d-29.6910819!4d-51.1272354!16s%2Fg%2F11qr9fkwj9?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "https://www.google.com/maps/place/Nutricionista+Alana+Soares+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+e+Funcional/@-29.6506012,-51.1735396,980m/data=!3m1!1e3!4m15!1m8!3m7!1s0x951945807a8c8cb5:0x8b176c369cfecaa9!2sNutricionista+Alana+Soares+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+e+Funcional!8m2!3d-29.6505729!4d-51.173389!10e5!16s%2Fg%2F11s3ddcvgf!3m5!1s0x951945807a8c8cb5:0x8b176c369cfecaa9!8m2!3d-29.6505729!4d-51.173389!16s%2Fg%2F11s3ddcvgf?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D",
   seo: {
     title:
-      "Nutricionista Clínica e Esportiva em Novo Hamburgo - Alexandra Petry",
+      "Nutricionista Clínica e Funcional em Estância Velha e Região - Alana Soares",
     description:
-      "Alexandra Petry, nutricionista clínica e esportiva em Novo Hamburgo/RS. Atendimento para quem busca resultados consistentes em saúde, emagrecimento ou performance.",
-    url: "https://nutrialexandrapetry.my.canva.site/",
+      "Nutricionista Alana Soares: especialista em saúde intestinal, inflamações, regulação hormonal e emagrecimento com o Método Íntegra. Atendimento em Estância Velha, NH, Ivoti e Online.",
+    url: "https://nutrialanasoares.com.br/",
     ogImage: "/assets/images/nutricionista-alexandrapetry-hero.webp",
   },
   hero: {
-    eyebrow: "Nutrição Clínica e Esportiva",
+    eyebrow: "Nutrição Clínica e Funcional · Método Íntegra",
     title:
-      "Nutricionista Clínica e Esportiva em Novo Hamburgo",
-    titleHighlight: "Alexandra Petry",
+      "Nutricionista Clínica e Funcional em Estância Velha e Região",
+    titleHighlight: "Alana Soares",
     tagline:
-      "Atendimento para quem busca resultados consistentes <br/> em saúde, emagrecimento ou performance",
+      "A nutri que parou de só dar dieta <br/> e passou a investigar o seu corpo de verdade",
     description:
-      "Atendimento para quem busca resultados consistentes em saúde, emagrecimento ou performance. Consultas presenciais em Novo Hamburgo e Online.",
+      "Chega de dietas mirabolantes e restrições sem resultado. Através do Método Íntegra, investigamos as causas reais de inchaço, desregulação intestinal, inflamações e desequilíbrios hormonais. Atendimento acolhedor presencial em Estância Velha, Novo Hamburgo, Ivoti e consultas online.",
   },
   about: {
-    eyebrow: "Muito prazer, sou a Alexandra Petry!",
+    eyebrow: "Muito prazer, sou a Alana Soares!",
     title:
-      "Resultados de forma sustentável e alinhada à realidade de cada paciente",
-    titleHighlight: "sustentável e alinhada",
+      "Parei de só dar dieta e passei a investigar o seu corpo de verdade",
+    titleHighlight: "investigar o seu corpo",
     paragraphs: [
-      "Sou Nutricionista especializada em Avaliação Metabólica e Nutricional pelo Centro de Ensino Dr. Eric Slywitch, com aprimoramento em Nutrição e Suplementação Esportiva e Saúde Intestinal.",
-      "Trabalho com acompanhamento nutricional para adultos que buscam melhorar a saúde, a composição corporal, a performance física ou a estética, por meio de estratégias alimentares planejadas de acordo com suas necessidades, objetivos e rotina.",
-      "O acompanhamento nutricional é conduzido com base em avaliação individual, análise de exames (quando necessário) e ajustes progressivos, com o objetivo de otimizar resultados de forma sustentável e alinhada à realidade de cada paciente.",
+      "Sou Nutricionista graduada com foco em Nutrição Clínica e Funcional e criadora do Método Íntegra.",
+      "Minha missão nasceu da certeza de que saúde sustentável não se constrói com dietas de gaveta ou restrições severas. Cada organismo é único e precisa ser investigado profundamente — com olhar atento para a saúde intestinal, inflamações silenciosas e equilíbrio hormonal.",
+      "Conduzo cada consulta com escuta atenta e empatia, construindo um plano alimentar que realmente cabe dentro da sua rotina e do seu orçamento. Sem extremismos: você entende os porquês do processo, fortalece seus hábitos e conquista bem-estar duradouro com suporte de perto.",
     ],
   },
   assets: {
@@ -72,44 +72,44 @@ export const site = {
 export const specialties = [
   {
     number: "01",
-    icon: "/assets/images/emagrecimento.svg",
-    title: "Emagrecimento",
-    text: "Sem abordagens restritivas ou extremismos, te ajudo a emagrecer de forma leve, prazerosa e sustentável.",
+    icon: "/assets/images/maca.svg",
+    title: "Saúde Intestinal e Digestiva",
+    text: "Você convive com barriga estufada, intestino preso, gases ou desconfortos constantes? Vamos cuidar da microbiota e restaurar a digestão com estratégia clínica.",
     detail:
-      "Emagrecimento sustentável com base nas suas preferências alimentares.",
+      "Modulação da barreira intestinal e alívio de queixas digestivas sem restrições desnecessárias.",
   },
   {
     number: "02",
-    icon: "/assets/images/corrida.svg",
-    title: "Hipertrofia e Performance",
-    text: "Vamos alinhar sua alimentação com sua rotina de exercícios, ajustando os macro e micronutrientes.",
+    icon: "/assets/images/emagrecimento.svg",
+    title: "Desinflamação e Vitalidade",
+    text: "Combate à inflamação crônica, sensação de inchaço, retenção e falta de energia. Protocolos anti-inflamatórios que reativam seu metabolismo.",
     detail:
-      "Para você performar melhor e ter mais resultados nos seus treinos e atividades.",
+      "Investigação da causa de sintomas silenciosos para devolver disposição e leveza ao seu dia.",
   },
   {
     number: "03",
-    icon: "/assets/images/maca.svg",
-    title: "Saúde e Controle de Doenças",
-    text: "Você vive com a barriga estufada, intestino preso, desconfortos e sem energia?",
+    icon: "/assets/images/corrida.svg",
+    title: "Equilíbrio Hormonal e Emagrecimento",
+    text: "Apoio nutricional para SOP, tireoide, TPM, menopausa e controle metabólico, alinhando nutrientes ao seu ritmo biológico para um emagrecimento sustentável.",
     detail:
-      "Vamos cuidar da sua saúde intestinal e reverter exames de forma eficaz.",
+      "Resultados sem dietas mirabolantes, respeitando sua rotina, preferências e orçamento.",
   }
 ] as const;
 
 export const pillars = [
   {
-    title: "Avaliar",
-    text: "Avaliação individual e definição de estratégias focadas nas suas necessidades.",
+    title: "Investigar",
+    text: "Investigação aprofundada de sintomas, funcionamento do intestino, rotina, exames e sinais que seu corpo expressa.",
     icon: "/assets/images/pagina.svg",
   },
   {
-    title: "Planejar",
-    text: "Planejamento alimentar personalizado e entrega de materiais complementares (guia de compras, receitas e mais).",
+    title: "Integrar (Método Íntegra)",
+    text: "Planejamento nutricional personalizado, realista e sem dietas mirabolantes, ajustado à sua rotina real e ao seu orçamento.",
     icon: "/assets/images/alvo.svg",
   },
   {
-    title: "Acompanhar",
-    text: "Suporte contínuo durante o período para resolução de dúvidas ou ajustes que forem necessários.",
+    title: "Acompanhar de Perto",
+    text: "Acolhimento contínuo, mensagens de apoio durante a semana e suporte direto para dúvidas, garantindo leveza em cada etapa.",
     icon: "/assets/images/pessoas.svg",
   },
 ] as const;
@@ -122,78 +122,78 @@ export const testimonials: {
   profile?: string;
 }[] = [
     {
-      name: "Mateus Costa",
-      city: "Novo Hamburgo/RS",
-      text: "Excelente nutri!! Recomendo para todos! Ela monta o plano alimentar conforme você gosta dos alimentos e também ajustar as refeições de acordo com sua rotina. Minha saúde intestinal mudou completamente depois que passei a ter o acompanhamento nutricional.",
+      name: "Marina Petry",
+      city: "Estância Velha/RS",
+      text: "Alana é muito atenciosa, está sempre disponível e nos ajuda muito no processo, ótima profissional, super indico!!",
       profile: site.googleProfile,
     },
     {
-      name: "Adriana Arantes",
-      city: "Novo Hamburgo/RS",
-      text: "Estou fazendo o tratamento com a nutricionista Alexandra D Petry desde agosto de 2025, eliminei 18k , e não passei fome! Plano alimentar dentro da realidade! Recomendo muito!!",
+      name: "Grasiela Q. Bittencourth",
+      city: "Estância Velha/RS",
+      text: "Nutricionista maravilhosa, nota 1000. Nos ajuda a ter melhor qualidade de vida, e faz nossa plano sem dietas mirabolantes e temos resultados.",
       profile: site.googleProfile,
     },
     {
-      name: "Cristian Worc",
-      city: "Novo Hamburgo/RS",
-      text: "A Dra. Alexandra é uma profissional extremamente atenciosa e dedicada. Seu atendimento é excelente, sempre ouvindo com cuidado e criando planos personalizados que realmente atendem às necessidades do paciente. Graças ao trabalho dela, minha mãe conseguiu — e continua conseguindo — evoluir de forma magnífica. Recomendo fortemente o trabalho da Dra. Alexandra pela sua competência, empatia e comprometimento com os resultados.",
+      name: "Cristiana Lins",
+      city: "Estância Velha/RS",
+      text: "Uma profissional maravilhosa, ela me deixou muito à vontade na consulta, me dando várias opções para chegarmos ao objetivo desejado, haja vista que existia vários empecilhos para concluirmos o protocolo. Ela sem dúvidas deixou tudo mais leve para mim me incentivando no processo. 🙏🏽🙏🏽🙏🏽",
       profile: site.googleProfile,
     },
     {
-      name: "Juliana Oliveira",
-      city: "Novo Hamburgo/RS",
-      text: "Excelente profissional! Me ajudou a alcançar meus objetivos sem frescuras! O básico que funciona!",
+      name: "Daiane Oliveira",
+      city: "Estância Velha/RS",
+      text: "Maravilhosa, acolhedora, sempre com uma estratégia que cabe dentro da nossa rotina e orçamento...a nutri sempre com o olhar atento, mensagens durante a semana q ajuda muito a lembrar o pq estamos com ela, suporte imediato qndo solicitado. Um ambiente agradável, horário agendado sem espera, super recomendo 😊",
       profile: site.googleProfile,
     },
     {
-      name: "Natalia V",
-      city: "Novo Hamburgo/RS",
-      text: "Alexandra é uma nutricionista maravilhosa! Depois de ter várias experiências com 5 nutricionistas diferentes, ela foi a única que realmente adaptou a dieta 100% à minha rotina. Ela me passou um plano muito prático e realista. Depois de um mês já comecei ver os resultados no emagrecimento. Recomendo muito ela!",
+      name: "Maiara Santos",
+      city: "Estância Velha/RS",
+      text: "Uma profissional maravilhosa atenciosa gostei muito de conhecer Parabéns..Muito sucesso sempre 🙏🏻",
       profile: site.googleProfile,
     },
     {
-      name: "Ana Carolina de Souza Rauter",
-      city: "Novo Hamburgo/RS",
-      text: "Alexandra é uma profissional impecável! Sua prescrição é prazerosa e prática! Ela fez uma análise de toda minha rotina e me ajudou a organizar o plano alimentar nele (desde quais alimentos e quando prepará-los). Tbm é muito atenciosa com os pacientes nos intervalos entre as consultas, dando suporte e buscando ajudar. Adorei tê-la encontrado!",
+      name: "Aline Pugen",
+      city: "Estância Velha/RS",
+      text: "Excelente profissional, preocupada com a saúde e bem estar de seus pacientes. Explica os porquês de todo o processo de emagrecimento, nos fazendo entender nossos pontos fracos para fortalecê-los, trabalha não somente a estética, mas também a importância do auto conhecimento.",
       profile: site.googleProfile,
     }
   ];
 
 export const locations = [
   {
-    city: "Novo Hamburgo",
-    address: "R. Joaquim Nabuco, 1044",
+    city: "Estância Velha",
+    address: "R. Gregório de Matos, 76",
     district:
-      "Centro · Novo Hamburgo/RS · CEP 93310-002",
-    type: "Presencial · Online · Particular",
+      "Centro · Estância Velha/RS · CEP 93600-440",
+    type: "Presencial · NH · Ivoti · Online",
   },
 ] as const;
 
 export const faqs = [
   [
     "Onde acontecem as consultas presenciais?",
-    "Os atendimentos presenciais acontecem em Novo Hamburgo/RS. Entre em contato para mais detalhes sobre o endereço.",
+    "Os atendimentos presenciais acontecem em consultório no Centro de Estância Velha/RS, com fácil acesso também para quem vem de Novo Hamburgo e Ivoti. Entre em contato para consultar os horários disponíveis.",
   ],
   [
     "Você também realiza atendimentos online?",
-    "Sim! Além das consultas presenciais, realizo atendimento nutricional online para pacientes de todo o Brasil.",
+    "Sim! Realizo consultas nutricionais online completas para pacientes de todo o Brasil e do exterior, com o mesmo nível de aprofundamento, acolhimento e suporte contínuo.",
   ],
   [
-    "A estratégia muda conforme o meu objetivo?",
-    "Sim! O plano alimentar pode ser mais detalhado e calculado ou mais flexível, de acordo com o que você busca, seu momento de vida e o nível de controle necessário para alcançar resultados.",
+    "O que é o Método Íntegra?",
+    "É a metodologia que desenvolvi para ir além da simples entrega de um cardápio pronto. Investigamos as causas reais das queixas (como saúde intestinal, inflamações e equilíbrio hormonal) para construir uma estratégia integrada e definitiva.",
   ],
   [
-    "Como funcionam as orientações?",
-    "Você recebe orientações com explicação, não regras soltas. Durante o acompanhamento, você entende o motivo de cada orientação alimentar para que saiba o que está fazendo, por que está fazendo e como isso impacta seus resultados.",
+    "O plano alimentar cabe na minha rotina e no meu orçamento?",
+    "Com certeza! Um dos pilares do atendimento é propor estratégias que caibam dentro da sua realidade, rotina e orçamento, sem alimentos difíceis de encontrar ou dietas mirabolantes.",
   ],
   [
-    "Como funciona o contato e ajustes após a consulta?",
-    "Após a consulta, entro em contato em 1 a 2 semanas para entender como as coisas estão funcionando na rotina, esclarecer dúvidas e ajustar o que for necessário para manter o processo em andamento.",
+    "Como funciona o acompanhamento entre as consultas?",
+    "Você não fica desamparada: ofereço suporte próximo via WhatsApp para sanar dúvidas, além de mensagens e contato durante a semana para te incentivar e ajustar o protocolo sempre que preciso.",
   ],
   [
-    "Você avalia exames?",
-    "Sim. Quando indicado, avalio exames e prescrevo suplementações de forma individualizada, sempre considerando objetivos, sinais clínicos e necessidades específicas."
+    "Você avalia ou solicita exames?",
+    "Sim. Quando necessário, faço a solicitação e interpretação clínica aprofundada de exames laboratoriais, associando os resultados aos seus sintomas para uma conduta precisa."
   ]
 ] as const;
 
-export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Alexandra! Gostaria de agendar uma consulta.")}`;
+export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Alana! Gostaria de agendar uma consulta.")}`;
