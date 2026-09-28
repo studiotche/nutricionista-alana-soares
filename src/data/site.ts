@@ -8,9 +8,9 @@ export const site = {
   crn: "",
   credentials:
     "Nutricionista Clínica e Funcional · Criadora do Método Íntegra",
-  phoneDisplay: "(51) 99624-0936",
-  phoneLink: "5551996240936",
-  telLink: "tel:+5551996240936",
+  phoneDisplay: "(51) 99532-9424",
+  phoneLink: "5551995329424",
+  telLink: "tel:+5551995329424",
   email: "",
   instagram: "https://www.instagram.com/nutri.alanasoares/",
   hours: [
