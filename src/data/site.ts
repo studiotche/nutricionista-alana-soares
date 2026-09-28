@@ -23,7 +23,7 @@ export const site = {
     "https://www.google.com/maps/place/Nutricionista+Alana+Soares+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+e+Funcional/@-29.6506012,-51.1735396,980m/data=!3m1!1e3!4m15!1m8!3m7!1s0x951945807a8c8cb5:0x8b176c369cfecaa9!2sNutricionista+Alana+Soares+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+e+Funcional!8m2!3d-29.6505729!4d-51.173389!10e5!16s%2Fg%2F11s3ddcvgf!3m5!1s0x951945807a8c8cb5:0x8b176c369cfecaa9!8m2!3d-29.6505729!4d-51.173389!16s%2Fg%2F11s3ddcvgf?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D",
   googleRating: {
     score: "5,0",
-    reviews: 6,
+    reviews: 28,
   },
   mapsEmbedUrl:
     "https://maps.google.com/maps?q=-29.6505729,-51.173389&z=17&hl=pt-BR&output=embed",
