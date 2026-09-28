@@ -35,7 +35,7 @@ export const site = {
     description:
       "Nutricionista Alana Soares: especialista em saúde intestinal, inflamações, regulação hormonal e emagrecimento com o Método Íntegra. Atendimento em Estância Velha, NH, Ivoti e Online.",
     url: "https://nutrialanasoares.com.br/",
-    ogImage: "/assets/images/nutricionista-alexandrapetry-hero.webp",
+    ogImage: "/assets/images/nutricionista-alana-soares-hero.webp",
   },
   hero: {
     eyebrow: "Nutrição Clínica e Funcional · Método Íntegra",
@@ -60,12 +60,12 @@ export const site = {
   },
   assets: {
     logo: "/assets/images/logo-nutricionista-alexandra-petry.webp",
-    hero: "/assets/images/nutricionista-alexandra-petry-hero.webp",
-    heroMobile: "/assets/images/nutricionista-alexandrapetry-hero.webp",
-    about: "/assets/images/sobre-nutricionista-alexandrapetry.webp",
+    hero: "/assets/images/nutricionista-alana-soares-hero.webp",
+    heroMobile: "/assets/images/nutricionista-alana-soares-hero-mobile.webp",
+    about: "/assets/images/sobre-nutricionista-alana-soares.webp",
     processBg: "/assets/images/nutricionista-fundo-sessao-agende.webp",
-    consultorio: "/assets/images/consultorio-alexandrapetry.webp",
-    consultorioFachada: "/assets/images/recepcao-alexandrapetry.webp",
+    consultorio: "/assets/images/consultorio-alana-soares.webp",
+    consultorioFachada: "/assets/images/recepcao-alana-soares.webp",
   },
 } as const;
 
